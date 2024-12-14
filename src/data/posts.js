@@ -11,7 +11,7 @@ const posts = [
     {
       id: 2,
       title: "Titolo del Post",
-      image: 'https://picsum.photos/id/237/200/300',
+      image: '',
       content:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit animi unde quasi enim non esse ratione voluptas voluptate, officiis veritatis magni blanditiis possimus nobis cum id inventore corporis deserunt hic.",
       tags: ["js", "css"],
@@ -29,7 +29,7 @@ const posts = [
     {
       id: 4,
       title: "Titolo del Post",
-      image: '/image/nozze-di-cana.jpeg',
+      image: '',
       content:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit animi unde quasi enim non esse ratione voluptas voluptate, officiis veritatis magni blanditiis possimus nobis cum id inventore corporis deserunt hic.",
       tags: ["html"],

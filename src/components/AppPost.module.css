@@ -39,3 +39,32 @@
     border: none;
     border-radius: 10px;
 }
+
+.tags{
+    margin-right: 5px;
+    color: #ffffff; 
+}
+
+.tag {
+    padding: 10px;
+    margin-right: 10px;
+    background-color: #87cefa;
+    border-radius: 5px;
+}
+
+.tag-html {
+    background-color: #008000;
+}
+
+.tag-css {
+    background-color: #ffc0cb;
+}
+
+.tag-js {
+    background-color: #8a2be2;
+}
+
+.tag-react {
+    background-color: #9acd32;
+}
+
